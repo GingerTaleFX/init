@@ -1,5 +1,3 @@
 #In what file can you find the installed version of your Debian?
-#
-# On machine we are looking for /etc/ folder then make
-# find . -name debian and we will get the link
-# /etc/dpkg/origins/debian
+# find / debian_version
+# And we get /etc/debian_version
