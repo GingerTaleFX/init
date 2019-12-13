@@ -1,0 +1,2 @@
+# we should find /etc/hostname , write new name, with echo, fo example,
+# then save and reboot system. 
